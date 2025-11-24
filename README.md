@@ -27,7 +27,7 @@ SKILLS LEARNED
 
 . Visualizing data through charts and panels
 
-[Splunk Dashboard for Web Traffic Logs Report](https://github.com/TheCyberMask/ssh-log-analysis-using-splunk/blob/main/Analyzing%20SSH%20Log%20Files%20Using%20Splunk%20SIEM.pdf)
+[Splunk Dashboard for Web Traffic Logs Report](https://github.com/TheCyberMask/Splunk-Dashboard-for-Web-Traffic-Logs/blob/main/Splunk%20Dashboard%20for%20Web%20Traffic%20Logs.pdf)
 
 
 
