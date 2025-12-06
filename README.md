@@ -27,6 +27,9 @@ SKILLS LEARNED
 
 . Visualizing data through charts and panels
 
+
+REPORT
+
 [Splunk Dashboard for Web Traffic Logs Report](https://github.com/TheCyberMask/Splunk-Dashboard-for-Web-Traffic-Logs/blob/main/Splunk%20Dashboard%20for%20Web%20Traffic%20Logs.pdf)
 
 
